@@ -1,16 +1,19 @@
 ### Hi there 👋
+I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.me/badge?page_id=pheromone)
 
-<!--
-**pheromone/pheromone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-Here are some ideas to get you started:
+### Links 📌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ )
+- cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  )
+
+### Contract 😄
+
+- qq: <a href="tencent://message/?uin=510738319&Site=-&Menu=yes" target="_blank">510738319</a>
+- wechat: 15108663578
+- email: 15108663578@163.com
+
+### Stats 🌱
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=pheromone&show_icons=true&hide_border=true&hide=contribs,prs)
