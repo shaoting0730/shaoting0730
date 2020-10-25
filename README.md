@@ -7,7 +7,6 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 
 - blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ )
 - cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  )
-### 学习 https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
 
 ### Contract 😄
 
