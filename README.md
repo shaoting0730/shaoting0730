@@ -24,6 +24,6 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheromone&layout=compact)](https://github.com/pheromone/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheromone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
     </td>
     </tr> 
