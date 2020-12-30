@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.me/badge?page_id=pheromone)
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="GIF"  height="300" />
+<img align="right" src="https://media.giphy.com/media/mGPYIgOrNEGIqtd8FP/giphy.gif" alt="GIF"  height="300" />
 # src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
 
 ### Links 📌
