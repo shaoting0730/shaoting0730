@@ -8,6 +8,8 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 
 - blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ )
 - cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  )
+- 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/justjavac/free-programming-books-zh_CN )
+
 
 ### Contract 😄
 
