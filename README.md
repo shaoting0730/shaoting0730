@@ -14,8 +14,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 ### Contract 😄
 
 - qq: <a href="tencent://message/?uin=510738319&Site=-&Menu=yes" target="_blank">510738319</a>
-- wechat: 15108663578
-- email: 15108663578@139.com
+- wechat: shaoting0730
 
 ### Stats 🌱
 
