@@ -11,7 +11,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 - 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/justjavac/free-programming-books-zh_CN )
 
 
-### Contract 😄
+### Contract 🌶
 
 - qq: <a href="tencent://message/?uin=510738319&Site=-&Menu=yes" target="_blank">510738319</a>
 - wechat: shaoting0730
