@@ -29,3 +29,5 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheromone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
     </td>
     </tr> 
+  
+  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=pheromone&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/pheromone)
