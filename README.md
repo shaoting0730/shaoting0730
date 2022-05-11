@@ -30,4 +30,4 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
     </td>
     </tr> 
   
-  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=pheromone&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/pheromone)
+  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=pheromone&theme=react-light&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/pheromone)
