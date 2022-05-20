@@ -13,7 +13,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 <table>
   <tr style="font-size=30px">Links 📌</tr>
   <tr>Contract</tr>
-  <td></td>
+  <td>blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ )</td>
 </table>
 
 ### Contract 🌶
