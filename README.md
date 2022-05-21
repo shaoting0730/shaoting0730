@@ -24,12 +24,8 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
          [ cnblogs ]( https://zhoushaoting.com/ ]( https://www.cnblogs.com/shaoting/  )
        </td>
     <td>  
-  <tr>
-    <td>      
-         qq：510738319
-         Wechat: shaoting0730
-       </td>
-    <td> 
+ qq：510738319
+ Wechat: shaoting0730 
   </table>
 
 ### Stats 🌱
