@@ -6,9 +6,9 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 ### about 📚
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
-    <td>      
-         ![ blog ]( https://zhoushaoting.com/ ]( https://zhoushaoting.com/ ) <br/>
-         ![ cnblogs ]( https://zhoushaoting.com/ ]( https://www.cnblogs.com/shaoting/  ) <br/>
+    <td>   
+      - blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ ) <br/>
+      - cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  ) <br/>
        </td>
     <td>  
  qq：510738319 <br/> 
