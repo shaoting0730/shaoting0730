@@ -19,15 +19,17 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 ### about 📚
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
-    <td>
-      
-- blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ )
-- cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  )
-      
-- 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/justjavac/free-programming-books-zh_CN )
-
+    <td>      
+         [ blog ]( https://zhoushaoting.com/ ]( https://zhoushaoting.com/ )
+         [ cnblogs ]( https://zhoushaoting.com/ ]( https://www.cnblogs.com/shaoting/  )
        </td>
-    <td>   
+    <td>  
+  <tr>
+    <td>      
+         qq：510738319
+         Wechat: shaoting0730
+       </td>
+    <td> 
   </table>
 
 ### Stats 🌱
