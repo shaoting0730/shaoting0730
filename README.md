@@ -7,7 +7,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 ### about 📚
 | 博客 | 其它 |
 | ---- | ---- | 
-| blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/) |  qq：510738319 | 
+|  [1]:http://www.google.com |  qq：510738319 | 
 | cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/) | Wechat: shaoting0730  |
   
   
