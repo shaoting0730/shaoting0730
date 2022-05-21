@@ -3,25 +3,12 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-
-### Links 📌
-
-- blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ )
-- cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  )
-- 学习: [🌟🌟🌟🌟🌟 ]( https://github.com/justjavac/free-programming-books-zh_CN )
-
-
-### Contract 🌶
-
-- qq: <a href="tencent://message/?uin=510738319&Site=-&Menu=yes" target="_blank">510738319</a>
-- wechat: shaoting0730
-
 ### about 📚
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
     <td>      
-         [ blog ]( https://zhoushaoting.com/ ]( https://zhoushaoting.com/ )
-         [ cnblogs ]( https://zhoushaoting.com/ ]( https://www.cnblogs.com/shaoting/  )
+         ![ blog ]( https://zhoushaoting.com/ ]( https://zhoushaoting.com/ )
+         ![ cnblogs ]( https://zhoushaoting.com/ ]( https://www.cnblogs.com/shaoting/  )
        </td>
     <td>  
  qq：510738319
