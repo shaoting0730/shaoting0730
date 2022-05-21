@@ -3,20 +3,14 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-### about 📚
-<table cellspacing="0" cellpadding="0" style="border: none">
-  <tr>
-    <td>   
-      - blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ ) <br/>
-         [ blog ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
-         [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
 
-      - cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  ) <br/>
-       </td>
-    <td>  
- qq：510738319 <br/> 
- Wechat: shaoting0730  <br/>
-  </table>
+### about 📚
+| 博客 | 其它 |
+| ---- | ---- | 
+| - blog: [https://zhoushaoting.com/ ](https://zhoushaoting.com/ ) |  qq：510738319 | 
+| - cnblogs: [https://www.cnblogs.com/shaoting/  ](https://www.cnblogs.com/shaoting/  ) ) | Wechat: shaoting0730  |
+  
+  
 
 ### Stats 🌱
 
