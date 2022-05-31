@@ -4,13 +4,13 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 
-<!-- ### about 📚   -->
+### about 📚  
 | 博客 | [blog](https://zhoushaoting.com/ ) | [cnblogs](https://www.cnblogs.com/shaoting/) |
 | -----| ---- | ---- |
 | 其它 | QQ：510738319 | Wechat: shaoting0730 |
 
-<!-- ### Stats 🌱
- -->
+### Stats 🌱
+
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
     <td>
