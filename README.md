@@ -23,10 +23,5 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
     </td>
     </tr>
   </table>
-  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pheromone/output/github-contribution-grid-snake.svg"/>
-</div>  
-  
-  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=pheromone&theme=react-dark&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF)](https://github.com/pheromone)
+
 
