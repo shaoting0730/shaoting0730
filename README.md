@@ -25,7 +25,8 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 </div>
   
 
-   
+![](https://raw.githubusercontent.com/pheromone/pheromone/main/assets/github-contribution-grid-snake.svg)
+ 
       
       
 
