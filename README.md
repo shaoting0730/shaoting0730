@@ -10,23 +10,12 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 | 其它 | QQ：510738319 | Wechat: shaoting0730 |
 
 ### Stats 🌱
-
 <div align="center">
   <a href="https://github.com/pheromone">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pheromone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pheromone&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pheromone&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pheromone&layout=compact&langs_count=7&theme=bear"/>
 </div>
   
-
-<table cellspacing="0" cellpadding="0" style="border: none">
-  <tr>
-    <td>
-<!--    -->
-    </td>
-    <td>
-<!--        -->
-    </td>
-    </tr> 
 
    
       
