@@ -25,7 +25,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 </div>
   
 
-![Snake animation](https://raw.githubusercontent.com/pheromone/pheromone/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pheromone/pheromone/blob/snake/github-contribution-grid-snake.svg)
  
 
       
