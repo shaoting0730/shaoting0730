@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World！！!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=又是996的一天！！！&center=true&size=27" />
   </a>
 </h1>
 
