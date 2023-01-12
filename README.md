@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World！！!&center=true&size=27" />
+  </a>
+</h1>
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
 I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.me/badge?page_id=pheromone)
 
