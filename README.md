@@ -10,21 +10,14 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 | 其它 | QQ：510738319 | Wechat: shaoting0730 |
 
 ### Stats 🌱
-
-<table cellspacing="0" cellpadding="0" style="border: none">
-  <tr>
-    <td>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
       
-    </td>
-    <td>
+<br/>
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       
       
-    </td>
-    </tr>
-  </table>
+
 
 
