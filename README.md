@@ -15,7 +15,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
   <tr>
     <td>
       
-![my github stats](https://github-readme-stats.vercel.app/api?username=pheromone&show_icons=true&hide_border=true&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
     </td>
     <td>
       
