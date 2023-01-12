@@ -14,9 +14,9 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
     <td>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>    </td>
+<!--    -->
+  
+    </td>
     <td>
 <!--        -->
     </td>
