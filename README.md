@@ -18,7 +18,7 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 
 
 
-### Stats 🌱
+### other 🌱
 <br/>
 <br/>
 <br/>
