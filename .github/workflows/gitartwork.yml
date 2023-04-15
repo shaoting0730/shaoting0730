@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: jasineri
             # Text on contribution graph 
-            text: shaoting
+            text: shao ting
        - uses: jasineri/simple-push-action@v1
