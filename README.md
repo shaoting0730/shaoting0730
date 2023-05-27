@@ -37,6 +37,11 @@ I am pheromone who is a developer from China. ![](https://visitor-badge.glitch.m
 ![gitartwork](https://github.com/pheromone/pheromone/blob/main/gitartwork.svg)
 
       
+<details>
 
+<summary>💖 Other</summary>
+。。。。。。
+
+</details>
 
 
