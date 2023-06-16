@@ -20,7 +20,7 @@ I am st who is a developer from China. <br/> ![](https://moe-counter.glitch.me/g
 
 
 
-### other 🌱
+### info 🌱
 <br/>
 <br/>
 <br/>
