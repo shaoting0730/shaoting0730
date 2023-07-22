@@ -53,6 +53,7 @@ I am st who is a developer from China. <br/> ![](https://moe-counter.glitch.me/g
 ##     [ 此人不存在 ]( https://thispersondoesnotexist.com/ )    <br/>
 ##     [ 网页小游戏 ]( https://xingye.me/game/index.php )    <br/>
 ##     [ flutter 弹球 ]( https://pinball.flutter.dev/ )    <br/>
+##     [ itab 插件 ]( https://itab.link/?from=itab )    <br/>
 
 </details>
 
