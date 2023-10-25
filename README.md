@@ -54,6 +54,8 @@ I am st who is a developer from China. <br/> ![](https://moe-counter.glitch.me/g
 ####     [ 网页小游戏 ]( https://xingye.me/game/index.php )    <br/>
 ####     [ flutter 弹球 ]( https://pinball.flutter.dev/ )    <br/>
 ####     [ itab 插件 ]( https://itab.link/?from=itab )    <br/>
+####     [ githubrank 中国区排名 ]( https://githubrank.com/ )    <br/>
+
     
 </details>
 
