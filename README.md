@@ -5,7 +5,6 @@
   </a>
 </h1>
 
-
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
 I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitch.me/get/@:shaoting0730?theme=rule34)
 
@@ -59,10 +58,10 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 各类娱乐测试 ]( https://www.arealme.com/cn )    <br/>
 ####     [ ChatGPT 游戏开发：愤怒的南瓜 ]( https://lencx.github.io/fe-tips/game/angry-pumpkins/ )    <br/>
 ####     [ 红警-网页版 ]( https://game.bun.sh.cn/ )    <br/>
-
-
-
-    
+  
 </details>
+
+<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+
 
 
