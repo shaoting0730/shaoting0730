@@ -38,6 +38,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)](https://github.com/shaoting0730/Flutter_learn_demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=rust-learn)](https://github.com/shaoting0730/rust-learn)
+
 <details>
 
 <summary>💖 Other</summary>
@@ -61,7 +62,9 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
   
 </details>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+
 
 
 
