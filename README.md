@@ -37,7 +37,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ![Snake animation Light](https://github.com/shaoting0730/shaoting0730/blob/snake/github-contribution-grid-snake-light.svg) 
 ![gitartwork](https://github.com/shaoting0730/shaoting0730/blob/main/gitartwork.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shaoting0730/Flutter_learn_demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)](https://github.com/shaoting0730/Flutter_learn_demo)
 <details>
 
 <summary>💖 Other</summary>
