@@ -42,6 +42,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 
 <summary>💖 Other</summary>
 
+####     [ 中国历代朝代讲解 ]( https://www.historyline.online/ )    <br/>
 ####     [ 俄罗斯方块 ]( https://boyan01.github.io/flutter-tetris/#/ )    <br/>
 ####     [ 速听《三体》]( https://www.youtube.com/watch?v=QO25QnboJG0&list=PLUm1zvJ4-ufdtpMfD800oTw2hB5ghwabA&index=2&t=0s )    <br/>
 ####     [ 速听《最后一个地球人》]( https://www.youtube.com/watch?v=81ulM0cvTKw )    <br/>
@@ -58,6 +59,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 各类娱乐测试 ]( https://www.arealme.com/cn )    <br/>
 ####     [ ChatGPT 游戏开发：愤怒的南瓜 ]( https://lencx.github.io/fe-tips/game/angry-pumpkins/ )    <br/>
 ####     [ 红警-网页版 ]( https://game.bun.sh.cn/ )    <br/>
+
+
   
 </details>
 
