@@ -58,7 +58,6 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ githubrank 中国区排名 ]( https://githubrank.com/ )    <br/>
 ####     [ 各类娱乐测试 ]( https://www.arealme.com/cn )    <br/>
 ####     [ ChatGPT 游戏开发：愤怒的南瓜 ]( https://lencx.github.io/fe-tips/game/angry-pumpkins/ )    <br/>
-####     [ 红警-网页版 ]( https://game.bun.sh.cn/ )    <br/>
 
 
   
