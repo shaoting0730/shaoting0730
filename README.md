@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-  <a href="https://blog.sunguoqi.com/">
+  <a href="https://zhoushaoting.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=今天又是996的一天！！！&center=true&size=27" />
   </a>
 </h1>
