@@ -7,7 +7,15 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
 I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitch.me/get/@:shaoting0730?theme=rule34)
+<script type="module">
+import { generateCounterImage, fetchBusuanziCounter } from "moe-counter-busuanzi";
+// If you want to import it from CDN:
+// import { generateCounterImage, fetchBusuanziCounter } from 'https://cdn.jsdelivr.net/npm/moe-counter-busuanzi@1.0.2/+esm'
 
+const busuanziResult = await fetchBusuanziCounter();
+const counterSVGString = generateCounterImage(busuanziResult.page_pv);
+document.getElementById("counter").innerHTML = counterSVGString;
+</script>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" height="300" />
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
