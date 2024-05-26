@@ -7,8 +7,6 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
 I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitch.me/get/@:shaoting0730?theme=rule34)
-I am shaoting who is a developer from China. <br/> ![](https://moe-counter-busuanzi/get/@:shaoting0730?theme=rule34)
-<script src="https://time-counter.onmicrosoft.cn/counter.js" async="" id="online-counter" interval="240" api="https://time-counter.onmicrosoft.cn/counter" room="999"></script>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" height="300" />
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
