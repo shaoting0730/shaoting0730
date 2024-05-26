@@ -11,6 +11,10 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" height="300" />
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 
+<!-- 站点公告：天气 -->
+<iframe allowtransparency="true" frameborder="0" width="290" height="96" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=0&v=0&d=2&bd=0&k=&f=&ltf=009944&htf=cc0000&q=1&e=1&a=1&c=54511&w=290&h=96&align=center"></iframe>
+
+
 ### about 📚  
 | 博客 | [blog](https://zhoushaoting.com/ ) | [cnblogs](https://www.cnblogs.com/shaoting/) |
 | -----| ---- | ---- |
