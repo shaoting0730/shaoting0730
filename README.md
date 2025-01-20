@@ -27,7 +27,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shaoting0730&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaoting0730&theme=dracula)](https://github.com/shaoting0730/github-readme-activity-graph)
+
 
 <div align="center">
   <a href="https://github.com/shaoting0730">
