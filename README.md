@@ -48,7 +48,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=510738319@qq.com/510738319@qq.com&type=Date)](https://star-history.com/#510738319@qq.com/510738319@qq.com&Date) <br/>
+[![Star History Chart](https://api.star-history.com/svg?repos=shaoting0730/shaoting0730&type=Date)](https://star-history.com/#shaoting0730/shaoting0730&Date) <br/>
 
 
 ####     [ 中国历代朝代讲解 ]( https://www.historyline.online/ )    <br/>
