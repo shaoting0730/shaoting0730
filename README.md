@@ -27,7 +27,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 <br/>
 <br/>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=510738319@qq.com/510738319@qq.com&type=Date)](https://star-history.com/#510738319@qq.com/510738319@qq.com&Date) <br/>
+![shaoting0730's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaoting0730&theme=github-compact) <br/>
+
 
 <div align="center">
   <a href="https://github.com/shaoting0730">
@@ -47,7 +48,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 
 ## Star History
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaoting0730&theme=github-compact) <br/>
+[![Star History Chart](https://api.star-history.com/svg?repos=510738319@qq.com/510738319@qq.com&type=Date)](https://star-history.com/#510738319@qq.com/510738319@qq.com&Date) <br/>
 
 
 ####     [ 中国历代朝代讲解 ]( https://www.historyline.online/ )    <br/>
