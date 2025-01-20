@@ -45,7 +45,9 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=510738319@qq.com/510738319@qq.com&type=Date)](https://star-history.com/#510738319@qq.com/510738319@qq.com&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=510738319@qq.com/510738319@qq.com&type=Date)](https://star-history.com/#510738319@qq.com/510738319@qq.com&Date) <br/>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=510738319@qq.com) <br/>
+
 
 ####     [ 中国历代朝代讲解 ]( https://www.historyline.online/ )    <br/>
 ####     [ 俄罗斯方块 ]( https://boyan01.github.io/flutter-tetris/#/ )    <br/>
