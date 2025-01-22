@@ -46,10 +46,6 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 
 <summary>💖 Other</summary>
 
-## Star History
-
-
-
 ####     [ 中国历代朝代讲解 ]( https://www.historyline.online/ )    <br/>
 ####     [ 俄罗斯方块 ]( https://boyan01.github.io/flutter-tetris/#/ )    <br/>
 ####     [ 速听《三体》]( https://www.youtube.com/watch?v=QO25QnboJG0&list=PLUm1zvJ4-ufdtpMfD800oTw2hB5ghwabA&index=2&t=0s )    <br/>
@@ -73,8 +69,6 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 心河摆渡up主 ]( https://www.youtube.com/@XinHeBaiDu )    <br/>
 ####     [ 流体模拟 ]( https://david.li/fluid )    <br/>
 ####     [ 各年开发者生态系统现状 ]( https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/ )    <br/>
-
-
   
 </details>
 
