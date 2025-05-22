@@ -53,13 +53,11 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 纪妖 ]( https://www.cbaigui.com/ )    <br/>
 ####     [ 无用的网站 ]( https://theuselessweb.com/ )    <br/>
 ####     [ 全历史 ]( https://www.allhistory.com )    <br/>
-####     [ 逗比拯救世界 ]( http://www.dbbqb.com )    <br/>
 ####     [ 此人不存在 ]( https://thispersondoesnotexist.com/ )    <br/>
 ####     [ 网页小游戏 ]( https://xingye.me/game/index.php )    <br/>
 ####     [ flutter 弹球 ]( https://pinball.flutter.dev/ )    <br/>
 ####     [ itab 插件 ]( https://itab.link/?from=itab )    <br/>
 ####     [ githubrank 中国区排名 ]( https://githubrank.com/ )    <br/>
-####     [ 各类娱乐测试 ]( https://www.arealme.com/cn )    <br/>
 ####     [ ChatGPT 游戏开发：愤怒的南瓜 ]( https://lencx.github.io/fe-tips/game/angry-pumpkins/ )    <br/>
 ####     [ 小霸王FC：在线玩、可联机、可手柄 ]( https://www.wexyx.com/ )    <br/>
 ####     [ 在线dos游戏 ]( https://dos.zczc.cz/games/ )    <br/>
