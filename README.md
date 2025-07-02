@@ -65,6 +65,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 性格测试 ]( https://www.16personalities.com/ )    <br/>
 ####     [ 心河摆渡up主 ]( https://www.youtube.com/@XinHeBaiDu )    <br/>
 ####     [ 流体模拟 ]( https://david.li/fluid )    <br/>
+####     [ 这b班上得值不值·测算版 ]( https://worthjob.zippland.com/ )    <br/>
 ####     [ 各年开发者生态系统现状 ]( https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/ )    <br/>
   
 </details>
