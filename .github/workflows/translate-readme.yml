@@ -1,19 +1,15 @@
-name: Translate README
+name: Call Reusable Translate
 
 on:
-  workflow_call:
-    inputs:
-      file:
-        description: "要翻译的 Markdown 文件路径"
-        required: true
-        type: string
-    secrets:
-      OPENAI_API_KEY:
-        required: true
+  push:
+    paths:
+      - README.md
+  workflow_dispatch:
 
 jobs:
-  translate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - run: echo "翻译文件: ${{ inputs.file }}"
+  call-translate:
+    uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
+    with:
+      file: README.md
+    secrets:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
