@@ -15,15 +15,18 @@ jobs:
   translate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Install Python and dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          pip install openai
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Translate README.md using OpenAI API
+      - name: Install dependencies
+        run: pip install openai
+
+      - name: Translate README using OpenAI API
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           FILE_PATH: ${{ inputs.file }}
@@ -32,9 +35,9 @@ jobs:
           import os
           from openai import OpenAI
 
-          client = OpenAI()
-
+          client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
           file_path = os.getenv("FILE_PATH")
+
           with open(file_path, "r", encoding="utf-8") as f:
               content = f.read()
 
