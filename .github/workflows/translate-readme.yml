@@ -1,15 +1,53 @@
-name: Call Reusable Translate
+name: Translate README
 
 on:
-  push:
-    paths:
-      - README.md
-  workflow_dispatch:
+  workflow_call:
+    inputs:
+      file:
+        description: '要翻译的 Markdown 文件路径'
+        required: true
+        type: string
+    secrets:
+      OPENAI_API_KEY:
+        required: true
 
 jobs:
-  call-translate:
-    uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
-    with:
-      file: README.md
-    secrets:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Python and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip
+          pip3 install openai
+
+      - name: Translate README using OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          FILE_PATH: ${{ inputs.file }}
+        run: |
+          python3 - <<EOF
+          import os, openai
+
+          file_path = os.getenv("FILE_PATH")
+          with open(file_path, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          openai.api_key = os.getenv("OPENAI_API_KEY")
+
+          response = openai.ChatCompletion.create(
+              model="gpt-4o-mini",
+              messages=[{"role": "user", "content": f"请将以下 Markdown 内容翻译成英文，保持格式:\n\n{content}"}]
+          )
+
+          translated = response.choices[0].message.content
+
+          output_file = file_path.replace(".md", "_en.md")
+          with open(output_file, "w", encoding="utf-8") as f:
+              f.write(translated)
+
+          print(f"翻译完成，输出文件: {output_file}")
+          EOF
