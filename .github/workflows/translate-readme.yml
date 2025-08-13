@@ -3,7 +3,7 @@ name: Translate README
 on:
   workflow_call:
     inputs:
-      file:
+      file: # ✅ 参数名是 file
         description: '要翻译的 Markdown 文件路径'
         required: true
         type: string
@@ -31,7 +31,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           FILE_PATH: ${{ inputs.file }}
         run: |
-          python3 - <<EOF
+          python3 - <<'EOF'
           import os
           from openai import OpenAI
 
