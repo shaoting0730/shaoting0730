@@ -51,7 +51,7 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=rust-learn" />
 </a>
 
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pranesh-2005&repo=github-readme-stats)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)](https://github.com/shaoting0730/Flutter_learn_demo)
 
 
 
