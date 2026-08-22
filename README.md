@@ -68,7 +68,6 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ itab 插件 ]( https://itab.link/?from=itab )    <br/>
 ####     [ githubrank 中国区排名 ]( https://githubrank.com/ )    <br/>
 ####     [ ChatGPT 游戏开发：愤怒的南瓜 ]( https://lencx.github.io/fe-tips/game/angry-pumpkins/ )    <br/>
-####     [ 小霸王FC：在线玩、可联机、可手柄 ]( https://www.wexyx.com/ )    <br/>
 ####     [ 在线dos游戏 ]( https://dos.zczc.cz/games/ )    <br/>
 ####     [ 老游戏在线玩 ]( https://zaixianwan.app/ )    <br/>
 ####     [ MBTI性格测试 ]( https://www.16personalities.com/ )    <br/>
