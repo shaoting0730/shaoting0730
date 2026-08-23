@@ -65,7 +65,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 此人不存在 ]( https://thispersondoesnotexist.com/ )    <br/>
 ####     [ 网页小游戏 ]( https://xingye.me/game/index.php )    <br/>
 ####     [ fceux模拟器 ]( https://fceux.com/web/home.html )    <br/>
-####     [ 小游戏 nes github ]( https://github.com/mengfei523060/nesrom )    <br/>
+####     [ 小游戏 nes 下载1 ]( https://github.com/mengfei523060/nesrom )    <br/>
+####     [ 小游戏 nes 下载2 ]( https://www.fcnesyouxi.top/)    <br/>
 ####     [ flutter 弹球 ]( https://pinball.flutter.dev/ )    <br/>
 ####     [ itab 插件 ]( https://itab.link/?from=itab )    <br/>
 ####     [ githubrank 中国区排名 ]( https://githubrank.com/ )    <br/>
