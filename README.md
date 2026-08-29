@@ -75,7 +75,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 ####     [ 老游戏在线玩 ]( https://zaixianwan.app/ )    <br/>
 ####     [ MBTI性格测试 ]( https://www.16personalities.com/ )    <br/>
 ####     [ SBTI性格测试 ]( https://sbti.fancc.de5.net/ )    <br/>
-####     [ 心河摆渡up主 ]( https://www.youtube.com/@XinHeBaiDu )    <br/>
+####     [ 心河摆渡-YouTube ]( https://www.youtube.com/@XinHeBaiDu )    <br/>
+####     [ 深度一书-YouTube ]( https://www.youtube.com/@%E6%B7%B1%E8%AF%BB%E4%B8%80%E4%B9%A6 )    <br/>
 ####     [ 流体模拟 ]( https://david.li/fluid )    <br/>
 ####     [ 这b班上得值不值·测算版 ]( https://worthjob.zippland.com/ )    <br/>
 ####     [ 各年开发者生态系统现状 ]( https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/ )    <br/>
