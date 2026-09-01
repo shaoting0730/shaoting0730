@@ -26,7 +26,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
 <br/>
 <br/>
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)] <br/>
 
 ![shaoting0730's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaoting0730&theme=github-compact) <br/>
 
