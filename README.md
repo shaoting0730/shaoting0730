@@ -46,8 +46,8 @@ I am shaoting who is a developer from China. <br/> ![](https://moe-counter.glitc
     <a href="https://github.com/shaoting0730/Flutter_learn_demo">
       <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo" alt="Flutter学习历程" />
     </a>
-    <a href="https://github.com/shaoting0730/ai-learn">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shaoting0730&repo=ai-learn" alt="Ai学习历程" />
+    <a href="https://github.com/shaoting0730/ai_learn">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shaoting0730&repo=ai_learn" alt="Ai学习历程" />
     </a>
   </div>
 </div>
